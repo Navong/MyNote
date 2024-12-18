@@ -77,3 +77,6 @@ https://github.com/user-attachments/assets/ed96f0dd-6a08-452c-a771-9f2551331a90
 ### **6. Results and Recognition**
 
 The "MyNote" project was successfully completed as part of our capstone requirements. Our innovative features and problem-solving approach earned us a spot among the **Top 5 Best Capstone Projects of 2023.**
+
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/8b975e23-c36b-4100-86c4-37415f35bebc" />
+
